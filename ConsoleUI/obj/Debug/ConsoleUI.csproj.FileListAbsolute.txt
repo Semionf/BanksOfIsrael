@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\User\source\repos\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\User\source\repos\ConsoleUI\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\User\source\repos\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\User\source\repos\ConsoleUI\ConsoleUI\obj\Debug\ConsoleUI.pdb
